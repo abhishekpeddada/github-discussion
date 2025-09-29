@@ -6,3 +6,7 @@ vim
 abhi
 pandu
 sravan
+
+tanoj
+devi
+stuthi
