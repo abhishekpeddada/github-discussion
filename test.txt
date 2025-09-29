@@ -1,5 +1,8 @@
-ls
 cd
 mkdir
 touch
 vim
+
+abhi
+pandu
+sravan
