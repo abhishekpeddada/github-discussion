@@ -1,9 +1,9 @@
 cd
 mkdir
-touch
+abhi
 vim
 
-abhi
+
 pandu
 sravan
 vishnu
